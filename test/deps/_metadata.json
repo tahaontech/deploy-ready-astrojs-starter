@@ -1,0 +1,13 @@
+{
+  "hash": "fcb5f1b8",
+  "browserHash": "00449013",
+  "optimized": {
+    "astro/runtime/client/hmr.js": {
+      "src": "../../astro/dist/runtime/client/hmr.js",
+      "file": "astro_runtime_client_hmr__js.js",
+      "fileHash": "6ad2bf1f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

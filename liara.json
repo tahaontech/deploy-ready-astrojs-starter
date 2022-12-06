@@ -1,0 +1,11 @@
+{
+    "platform": "docker",
+    "app": "astrotest",
+    "port": 3000,
+    "disks": [
+        {
+          "name": "temps",
+          "mountTo": "/app/temps"
+        }
+    ]
+}
